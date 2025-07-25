@@ -1,6 +1,5 @@
-# EMAIL AI
-System that used chat gpt to write emails. 
-You add you gmail account. 
-then you will be able to type what you want to sent, to whoever you want to sent it and click enter. 
-For example: Send an email to jdhdshdsh@gmail.com explaining how stock work.
-Then the email will be sent to the email address provided with the requests you asked from chat gpt.
+# EMAIL AI — Smart Email Sender with ChatGPT + Gmail
+EMAIL AI is a simple automation system built with n8n and ChatGPT that writes and sends emails for you.
+Just connect your Gmail account, type a plain-English instruction (like you’re texting an assistant), and hit Enter.
+“Send an email to jdhdshdsh@gmail.com explaining how stocks work.”
+ChatGPT will generate a clear explanation, and the email will be automatically sent to the specified address — all in one workflow.
